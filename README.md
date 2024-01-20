@@ -1,7 +1,7 @@
 # 🧑‍💻 Online Code Editor (python Language)
 ![image](https://github.com/akshayram1/ide)
 
-Here is the [LIVE Deployed Link](https://ide.vercel.app/) of the IDE
+Here is the [LIVE Deployed Link](https://ide-plum.vercel.app/) of the IDE
 
 ## Built with...
 
